@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="26">
+  <Forms>
+    <CETrainer Class="TTrainerForm" Encoding="Ascii85">(DP6q,CUTrU{Fb-qfOLRD@-/ORhKkLFUx^4brcF#n5Y,3ss^T27RF/lNl2nTNuQ;hzDk};/FP_:7@z.BuJB.^Kj*ickiQv^guGs;iBO8e7{6d_7rN}ftGzx/sDkPZ7sBa]Dz{n=NTP)b]o{P!Gv!?PwQ*j25.q:utJpfS0!Sk4!vbPz)G.[crX7WBwN5be@+Ue{,YwoUYVZ$s)w{P^S%z7v]Y/6QKLv/wb[:AEhHS?UsgYs3P8*gcfz#)r%2K(USz5PPZ%5%YRy7;umH+O@hVXcp29U{UFW1Loh*j2gPMy#FcIU31QPh,7c^w95CqG_rNW(#]4%eoKQ/iR%h?^#@.z8FL+:HvnIvEZ(VgqsPvp:!UWCA_D7pt=[(IP3.Htqg!/aEvv8V;Tv=^_=.]0#!eJ0qW{=bx4?bZKgM-XZMfg_seH(xeu=hYh4OoQ=gF8q{WwrVT!g+1es1$[X!uK@)JZCA*UOZqyN6Q9tWl*%}ao6MPX--3dav..jY6/}3?[=84Gd!?R5J2XYA)dq!6^4UGJnh*.ii/1,ru7rpJ%?Dfu9wEg0coy(^X^pbt:V;BbHJVZBKyv+u%$dzWYW7euaAG5[h/4d7(ux,eWH?,[!A8:y[]{3V44}0m(jg,e,-4fE@$g=bcC(D9/Q28Nk6P4:3UWur4Vpe7,!egQEr$D$?S+Ut:3f6g2ay}kV++]R1f@{n!udTyYtF.sGD/Sw,0IpXC;m1xAtGG/:!hb:2EhIN/,vG-N?{5f.P_}XWK_W7+LVP169twzRWuoH5f#9c[jd;?:w=gA5fl.geXY^osJm_5PD7XPDDc-F96.zUb0^</CETrainer>
+  </Forms>
+  <CheatEntries>
+    <CheatEntry>
+      <ID>24</ID>
+      <Description>"X"</Description>
+      <LastState Value="-7891,152344" RealAddress="038DBBA0"/>
+      <VariableType>Float</VariableType>
+      <Address>"GameLogic.dll"+00097D7C</Address>
+      <Offsets>
+        <Offset>90</Offset>
+        <Offset>400</Offset>
+        <Offset>4</Offset>
+        <Offset>1C</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>228</ID>
+      <Description>"Y"</Description>
+      <LastState Value="64614,78125" RealAddress="038DBBA4"/>
+      <VariableType>Float</VariableType>
+      <Address>"GameLogic.dll"+00097D7C</Address>
+      <Offsets>
+        <Offset>94</Offset>
+        <Offset>400</Offset>
+        <Offset>4</Offset>
+        <Offset>1C</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>227</ID>
+      <Description>"Z"</Description>
+      <LastState Value="2720,369385" RealAddress="038DBBA8"/>
+      <VariableType>Float</VariableType>
+      <Address>"GameLogic.dll"+00097D7C</Address>
+      <Offsets>
+        <Offset>98</Offset>
+        <Offset>400</Offset>
+        <Offset>4</Offset>
+        <Offset>1C</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>226</ID>
+      <Description>"x"</Description>
+      <LastState Value="-7891,152344" RealAddress="29F42090"/>
+      <VariableType>Float</VariableType>
+      <Address>"GameLogic.dll"+00097D80</Address>
+      <Offsets>
+        <Offset>90</Offset>
+        <Offset>74</Offset>
+        <Offset>27C</Offset>
+        <Offset>238</Offset>
+        <Offset>170</Offset>
+      </Offsets>
+      <Hotkeys>
+        <Hotkey>
+          <Action>Increase Value</Action>
+          <Keys>
+            <Key>84</Key>
+          </Keys>
+          <Value>1000</Value>
+          <Description>Move Forward</Description>
+          <ID>0</ID>
+        </Hotkey>
+        <Hotkey>
+          <Action>Decrease Value</Action>
+          <Keys>
+            <Key>71</Key>
+          </Keys>
+          <Value>1000</Value>
+          <Description>Move Backward</Description>
+          <ID>1</ID>
+        </Hotkey>
+      </Hotkeys>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>221</ID>
+      <Description>"y"</Description>
+      <LastState Value="64614,78125" RealAddress="29F42094"/>
+      <VariableType>Float</VariableType>
+      <Address>"GameLogic.dll"+00097D80</Address>
+      <Offsets>
+        <Offset>94</Offset>
+        <Offset>74</Offset>
+        <Offset>27C</Offset>
+        <Offset>238</Offset>
+        <Offset>170</Offset>
+      </Offsets>
+      <Hotkeys>
+        <Hotkey>
+          <Action>Increase Value</Action>
+          <Keys>
+            <Key>72</Key>
+          </Keys>
+          <Value>1000</Value>
+          <Description>Move Right</Description>
+          <ID>0</ID>
+        </Hotkey>
+        <Hotkey>
+          <Action>Decrease Value</Action>
+          <Keys>
+            <Key>70</Key>
+          </Keys>
+          <Value>1000</Value>
+          <Description>Move Left</Description>
+          <ID>1</ID>
+        </Hotkey>
+      </Hotkeys>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>225</ID>
+      <Description>"z"</Description>
+      <LastState Value="2656,371338" RealAddress="29F42098"/>
+      <VariableType>Float</VariableType>
+      <Address>"GameLogic.dll"+00097D80</Address>
+      <Offsets>
+        <Offset>98</Offset>
+        <Offset>74</Offset>
+        <Offset>27C</Offset>
+        <Offset>238</Offset>
+        <Offset>170</Offset>
+      </Offsets>
+      <Hotkeys>
+        <Hotkey>
+          <Action>Increase Value</Action>
+          <Keys>
+            <Key>33</Key>
+          </Keys>
+          <Value>2000</Value>
+          <ID>0</ID>
+        </Hotkey>
+        <Hotkey>
+          <Action>Decrease Value</Action>
+          <Keys>
+            <Key>34</Key>
+          </Keys>
+          <Value>2000</Value>
+          <ID>1</ID>
+        </Hotkey>
+        <Hotkey>
+          <Action>Increase Value</Action>
+          <Keys>
+            <Key>36</Key>
+          </Keys>
+          <Value>200</Value>
+          <Description>Move Up</Description>
+          <ID>2</ID>
+        </Hotkey>
+        <Hotkey>
+          <Action>Decrease Value</Action>
+          <Keys>
+            <Key>35</Key>
+          </Keys>
+          <Value>200</Value>
+          <Description>Move Down</Description>
+          <ID>3</ID>
+        </Hotkey>
+        <Hotkey>
+          <Action>Toggle Activation</Action>
+          <Keys>
+            <Key>220</Key>
+          </Keys>
+          <Description>Freeeze position</Description>
+          <ID>4</ID>
+        </Hotkey>
+      </Hotkeys>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>224</ID>
+      <Description>"No description"</Description>
+      <LastState Value="3,402823466E38" RealAddress="157D1498"/>
+      <VariableType>Float</VariableType>
+      <Address>157D1498</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+  <LuaScript>--TRAINERGENERATORSTART--
+--This is autogenerated code. Changing code in this block will
+--get erased and rewritten if you regenerate the trainer code
+
+--Uncomment the following line if this is a Cheat Table format trainer and you don't want CE to show (Tip, save as .CETRAINER alternatively)
+--hideAllCEWindows()
+
+RequiredCEVersion=6,7
+if (getCEVersion==nil) or (getCEVersion()&lt;RequiredCEVersion) then
+  messageDialog('Please install Cheat Engine '..RequiredCEVersion, mtError, mbOK)
+  closeCE()
+end
+addresslist=getAddressList()
+memrec226=addresslist.getMemoryRecordByID(226)
+memrec221=addresslist.getMemoryRecordByID(221)
+memrec225=addresslist.getMemoryRecordByID(225)
+
+memrec226_hotkey0=memrec226.getHotkeyByID(0)
+memrec226_hotkey1=memrec226.getHotkeyByID(1)
+memrec221_hotkey0=memrec221.getHotkeyByID(0)
+memrec221_hotkey1=memrec221.getHotkeyByID(1)
+memrec225_hotkey0=memrec225.getHotkeyByID(0)
+memrec225_hotkey1=memrec225.getHotkeyByID(1)
+memrec225_hotkey2=memrec225.getHotkeyByID(2)
+memrec225_hotkey3=memrec225.getHotkeyByID(3)
+memrec225_hotkey4=memrec225.getHotkeyByID(4)
+
+function onHotkey0(Hotkey)
+  --Executed before the hotkey is handled
+  CETrainer.CHEAT0.setActive(true, 1500)
+  if gPlaySoundOnAction then
+    playSound(gActivateSound)
+  end
+end
+
+memrec226_hotkey0.onHotkey=onHotkey0
+function onHotkey1(Hotkey)
+  --Executed before the hotkey is handled
+  CETrainer.CHEAT1.setActive(true, 1500)
+  if gPlaySoundOnAction then
+    playSound(gActivateSound)
+  end
+end
+
+memrec226_hotkey1.onHotkey=onHotkey1
+function onHotkey2(Hotkey)
+  --Executed before the hotkey is handled
+  CETrainer.CHEAT2.setActive(true, 1500)
+  if gPlaySoundOnAction then
+    playSound(gActivateSound)
+  end
+end
+
+memrec221_hotkey0.onHotkey=onHotkey2
+function onHotkey3(Hotkey)
+  --Executed before the hotkey is handled
+  CETrainer.CHEAT3.setActive(true, 1500)
+  if gPlaySoundOnAction then
+    playSound(gActivateSound)
+  end
+end
+
+memrec221_hotkey1.onHotkey=onHotkey3
+function onHotkey4(Hotkey)
+  --Executed before the hotkey is handled
+  CETrainer.CHEAT4.setActive(true, 1500)
+  if gPlaySoundOnAction then
+    playSound(gActivateSound)
+  end
+end
+
+memrec225_hotkey0.onHotkey=onHotkey4
+function onHotkey5(Hotkey)
+  --Executed before the hotkey is handled
+  CETrainer.CHEAT5.setActive(true, 1500)
+  if gPlaySoundOnAction then
+    playSound(gActivateSound)
+  end
+end
+
+memrec225_hotkey1.onHotkey=onHotkey5
+function onHotkey6(Hotkey)
+  --Executed before the hotkey is handled
+  CETrainer.CHEAT6.setActive(true, 1500)
+  if gPlaySoundOnAction then
+    playSound(gActivateSound)
+  end
+end
+
+memrec225_hotkey2.onHotkey=onHotkey6
+function onHotkey7(Hotkey)
+  --Executed before the hotkey is handled
+  CETrainer.CHEAT7.setActive(true, 1500)
+  if gPlaySoundOnAction then
+    playSound(gActivateSound)
+  end
+end
+
+memrec225_hotkey3.onHotkey=onHotkey7
+function onPostHotkey8(Hotkey)
+  --Executed after the "toggle*" cheat got executed
+  local memrec=Hotkey.Owner
+  local isActive=memrec.Active --get the state after the hotkey got triggered
+  CETrainer.CHEAT8.setActive(isActive) --gui update, nothing else
+  if gPlaySoundOnAction then
+    if isActive then
+      playSound(gActivateSound)
+    else
+      playSound(gDeactivateSound)
+    end
+  end
+end
+
+memrec225_hotkey4.onPostHotkey=onPostHotkey8
+
+
+getAutoAttachList().add("PwnAdventure3-Win32-Shipping.exe")
+gPlaySoundOnAction=false
+CETrainer.show()
+function AboutClick()
+  showMessage(gAboutText)
+end
+gAboutText=[[This trainer was made by Cheat Engine
+www.cheatengine.org]]
+
+function CloseClick()
+  --called by the close button onClick event, and when closing the form
+  closeCE()
+  return caFree --onClick doesn't care, but onClose would like a result
+end
+
+--TRAINERGENERATORSTOP--
+</LuaScript>
+</CheatTable>

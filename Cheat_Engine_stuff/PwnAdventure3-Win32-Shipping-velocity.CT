@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="26">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>0</ID>
+      <Description>"pointerscan result"</Description>
+      <LastState Value="0" RealAddress="29C34D84"/>
+      <VariableType>Float</VariableType>
+      <Address>"GameLogic.dll"+00097D80</Address>
+      <Offsets>
+        <Offset>84</Offset>
+        <Offset>50</Offset>
+        <Offset>27C</Offset>
+        <Offset>238</Offset>
+        <Offset>164</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1</ID>
+      <Description>"pointerscan result"</Description>
+      <LastState Value="0" RealAddress="29C34D84"/>
+      <VariableType>Float</VariableType>
+      <Address>"GameLogic.dll"+00097D80</Address>
+      <Offsets>
+        <Offset>84</Offset>
+        <Offset>50</Offset>
+        <Offset>27C</Offset>
+        <Offset>238</Offset>
+        <Offset>170</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2</ID>
+      <Description>"pointerscan result"</Description>
+      <LastState Value="0" RealAddress="29C34D84"/>
+      <VariableType>Float</VariableType>
+      <Address>"GameLogic.dll"+00097D80</Address>
+      <Offsets>
+        <Offset>84</Offset>
+        <Offset>50</Offset>
+        <Offset>27C</Offset>
+        <Offset>244</Offset>
+        <Offset>164</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>3</ID>
+      <Description>"pointerscan result"</Description>
+      <LastState Value="0" RealAddress="29C34D84"/>
+      <VariableType>Float</VariableType>
+      <Address>"GameLogic.dll"+00097D80</Address>
+      <Offsets>
+        <Offset>84</Offset>
+        <Offset>50</Offset>
+        <Offset>27C</Offset>
+        <Offset>244</Offset>
+        <Offset>170</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>4</ID>
+      <Description>"pointerscan result"</Description>
+      <LastState Value="0" RealAddress="29C34D84"/>
+      <VariableType>Float</VariableType>
+      <Address>"PwnAdventure3-Win32-Shipping.exe"+018FCD60</Address>
+      <Offsets>
+        <Offset>84</Offset>
+        <Offset>50</Offset>
+        <Offset>27C</Offset>
+        <Offset>238</Offset>
+        <Offset>20</Offset>
+      </Offsets>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>

@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="26">
+  <Forms>
+    <CETrainer Class="TTrainerForm" Encoding="Ascii85">y.DtZ):Zrz6Y@cyu1E-RLR@rB[yZ*Fw@r,#sPQ!5gqyglRWGhww.fmh9tREx=QifCaO1R1yE1X(l-PdX:Y2lxZx#S3Jv)V5Brq,BIOF2hi)$Qb)jy}jBFpX(dNY;hZ)t%mHEGMbriC1vA6ia}r.[s0wx]ST^oA^C%qS]4rasW=O=gtrjL)SUS08nlPu!Hx:nBJmHsx6@2q_OLLIem/46]YtQZ2j.rf=9VWKfYZid^_y)3A]%$W=7AE)!DDM;Gi2un(8;3H,t0utG+{O2?]+Rp(:!L0Gp]4mjR$)c=:ZNTGL:x!l:)Ot4Y72oDoc5Mi]^r*WiUDR}*$QF4W%D{/81CT7(cjOUfXzt,UQ*WlrOBCc9+H-1}.kk4i1r{EJ8tEKjHGZSbpy0]d-Sl!F.9PUmte]+[yhtsqQCzFE6eC(ayt8oX0sNpI-=5cSW[VFIQ9rs_%,@EL(?Q_;elb^RusTW4.dH(k0qiURAvwyw4iybZ{/ZF.)q0nQ[xNyN1?%R+G?t}WcZqjeS7KdS9ZeihQL}@,Y,lV#pB@hkSdcGU$k9DjUPFUt,E?pv=CpuWLO.+2/O_p%b)oEJ=xezSvDvgspXI?ki-qb.SSKzDKzH0Okxs(.dyW^2Tl#KA4Ne;oOF7:hI(9htA!6{+Lf?*UnOTHklMqDhhD12SRsyB7iD64ipdtol:0!vc3NA/5d)=hMC4b*r8#)b$kJimiytN9VXa_89SsOFQQTI@_jcTi+hp}lv}Ys[^uKCLtkaX$H/A[4dV</CETrainer>
+  </Forms>
+  <CheatEntries>
+    <CheatEntry>
+      <ID>14</ID>
+      <Description>"pointerscan result"</Description>
+      <LastState Value="-38010,28906" RealAddress="194284E0"/>
+      <VariableType>Float</VariableType>
+      <Address>"GameLogic.dll"+00097D7C</Address>
+      <Offsets>
+        <Offset>90</Offset>
+        <Offset>564</Offset>
+        <Offset>1C0</Offset>
+        <Offset>110</Offset>
+        <Offset>1C</Offset>
+      </Offsets>
+      <Hotkeys>
+        <Hotkey>
+          <Action>Increase Value</Action>
+          <Keys>
+            <Key>87</Key>
+          </Keys>
+          <Value>100</Value>
+          <Description>Move forward</Description>
+          <ID>0</ID>
+        </Hotkey>
+        <Hotkey>
+          <Action>Decrease Value</Action>
+          <Keys>
+            <Key>83</Key>
+          </Keys>
+          <Value>100</Value>
+          <Description>Move backward</Description>
+          <ID>1</ID>
+        </Hotkey>
+      </Hotkeys>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>15</ID>
+      <Description>"pointerscan result"</Description>
+      <LastState Value="-38010,28906" RealAddress="194284E0"/>
+      <VariableType>Float</VariableType>
+      <Address>"GameLogic.dll"+00097E48</Address>
+      <Offsets>
+        <Offset>90</Offset>
+        <Offset>564</Offset>
+        <Offset>1C0</Offset>
+        <Offset>110</Offset>
+        <Offset>148</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>16</ID>
+      <Description>"pointerscan result"</Description>
+      <LastState Value="-38010,28906" RealAddress="194284E0"/>
+      <VariableType>Float</VariableType>
+      <Address>"GameLogic.dll"+00097D80</Address>
+      <Offsets>
+        <Offset>90</Offset>
+        <Offset>564</Offset>
+        <Offset>1C0</Offset>
+        <Offset>5B0</Offset>
+        <Offset>164</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>17</ID>
+      <Description>"pointerscan result"</Description>
+      <LastState Value="-38010,28906" RealAddress="194284E0"/>
+      <VariableType>Float</VariableType>
+      <Address>"GameLogic.dll"+00097D80</Address>
+      <Offsets>
+        <Offset>90</Offset>
+        <Offset>564</Offset>
+        <Offset>1C0</Offset>
+        <Offset>5B0</Offset>
+        <Offset>170</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>18</ID>
+      <Description>"pointerscan result"</Description>
+      <LastState Value="-38010,28906" RealAddress="194284E0"/>
+      <VariableType>Float</VariableType>
+      <Address>"PwnAdventure3-Win32-Shipping.exe"+018FCD60</Address>
+      <Offsets>
+        <Offset>90</Offset>
+        <Offset>564</Offset>
+        <Offset>1C0</Offset>
+        <Offset>5B0</Offset>
+        <Offset>20</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>19</ID>
+      <Description>"pointerscan result"</Description>
+      <LastState Value="-38010,28906" RealAddress="194284E0"/>
+      <VariableType>Float</VariableType>
+      <Address>"GameLogic.dll"+00097D7C</Address>
+      <Offsets>
+        <Offset>90</Offset>
+        <Offset>564</Offset>
+        <Offset>200</Offset>
+        <Offset>114</Offset>
+        <Offset>1C</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>20</ID>
+      <Description>"pointerscan result"</Description>
+      <LastState Value="-38010,28906" RealAddress="194284E0"/>
+      <VariableType>Float</VariableType>
+      <Address>"GameLogic.dll"+00097E48</Address>
+      <Offsets>
+        <Offset>90</Offset>
+        <Offset>564</Offset>
+        <Offset>200</Offset>
+        <Offset>114</Offset>
+        <Offset>148</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>21</ID>
+      <Description>"pointerscan result"</Description>
+      <LastState Value="-38010,28906" RealAddress="194284E0"/>
+      <VariableType>Float</VariableType>
+      <Address>"GameLogic.dll"+00097D80</Address>
+      <Offsets>
+        <Offset>90</Offset>
+        <Offset>564</Offset>
+        <Offset>200</Offset>
+        <Offset>5B4</Offset>
+        <Offset>164</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>22</ID>
+      <Description>"pointerscan result"</Description>
+      <LastState Value="-38010,28906" RealAddress="194284E0"/>
+      <VariableType>Float</VariableType>
+      <Address>"GameLogic.dll"+00097D80</Address>
+      <Offsets>
+        <Offset>90</Offset>
+        <Offset>564</Offset>
+        <Offset>200</Offset>
+        <Offset>5B4</Offset>
+        <Offset>170</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>23</ID>
+      <Description>"pointerscan result"</Description>
+      <LastState Value="-38010,28906" RealAddress="194284E0"/>
+      <VariableType>Float</VariableType>
+      <Address>"PwnAdventure3-Win32-Shipping.exe"+018FCD60</Address>
+      <Offsets>
+        <Offset>90</Offset>
+        <Offset>564</Offset>
+        <Offset>200</Offset>
+        <Offset>5B4</Offset>
+        <Offset>20</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>24</ID>
+      <Description>"pointerscan result"</Description>
+      <LastState Value="-38010,28906" RealAddress="194284E0"/>
+      <VariableType>Float</VariableType>
+      <Address>"GameLogic.dll"+00097D7C</Address>
+      <Offsets>
+        <Offset>90</Offset>
+        <Offset>400</Offset>
+        <Offset>4</Offset>
+        <Offset>1C</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>25</ID>
+      <Description>"pointerscan result"</Description>
+      <LastState Value="-38010,28906" RealAddress="194284E0"/>
+      <VariableType>Float</VariableType>
+      <Address>"GameLogic.dll"+00097D7C</Address>
+      <Offsets>
+        <Offset>90</Offset>
+        <Offset>400</Offset>
+        <Offset>4</Offset>
+        <Offset>148</Offset>
+        <Offset>2C</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>26</ID>
+      <Description>"pointerscan result"</Description>
+      <LastState Value="-38010,28906" RealAddress="194284E0"/>
+      <VariableType>Float</VariableType>
+      <Address>"GameLogic.dll"+00097E48</Address>
+      <Offsets>
+        <Offset>90</Offset>
+        <Offset>400</Offset>
+        <Offset>4</Offset>
+        <Offset>148</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>98</ID>
+      <Description>"x"</Description>
+      <LastState Value="-38010,28906" RealAddress="194284E0"/>
+      <VariableType>Float</VariableType>
+      <Address>194284E0</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+  <LuaScript>--TRAINERGENERATORSTART--
+--This is autogenerated code. Changing code in this block will
+--get erased and rewritten if you regenerate the trainer code
+
+--Uncomment the following line if this is a Cheat Table format trainer and you don't want CE to show (Tip, save as .CETRAINER alternatively)
+--hideAllCEWindows()
+
+RequiredCEVersion=6,7
+if (getCEVersion==nil) or (getCEVersion()&lt;RequiredCEVersion) then
+  messageDialog('Please install Cheat Engine '..RequiredCEVersion, mtError, mbOK)
+  closeCE()
+end
+addresslist=getAddressList()
+memrec14=addresslist.getMemoryRecordByID(14)
+
+memrec14_hotkey0=memrec14.getHotkeyByID(0)
+memrec14_hotkey1=memrec14.getHotkeyByID(1)
+
+function onHotkey0(Hotkey)
+  --Executed before the hotkey is handled
+  CETrainer.CHEAT0.setActive(true, 1500)
+  if gPlaySoundOnAction then
+    playSound(gActivateSound)
+  end
+end
+
+memrec14_hotkey0.onHotkey=onHotkey0
+function onHotkey1(Hotkey)
+  --Executed before the hotkey is handled
+  CETrainer.CHEAT1.setActive(true, 1500)
+  if gPlaySoundOnAction then
+    playSound(gActivateSound)
+  end
+end
+
+memrec14_hotkey1.onHotkey=onHotkey1
+CETrainer.SEPERATOR.Visible=false
+
+getAutoAttachList().add("PwnAdventure3-Win32-Shipping.exe")
+function popupTrainerHotkeyFunction()
+  CETrainer.show()
+end
+createHotkey(popupTrainerHotkeyFunction, 45)
+getFreezeTimer().Interval=250
+gPlaySoundOnAction=false
+CETrainer.show()
+function AboutClick()
+  showMessage(gAboutText)
+end
+gAboutText=[[This trainer was made by Cheat Engine
+www.cheatengine.org]]
+
+function CloseClick()
+  --called by the close button onClick event, and when closing the form
+  closeCE()
+  return caFree --onClick doesn't care, but onClose would like a result
+end
+
+--TRAINERGENERATORSTOP--
+</LuaScript>
+</CheatTable>
